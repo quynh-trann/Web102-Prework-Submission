@@ -1,19 +1,18 @@
-# WEB102 Prework - *Name of App Here*
+# Android Prework - *Sea Monster Crowdfunding*
 
-Submitted by: **Your Name Here**
+Submitted by: **Thuy Thuy Quynh Tran**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunding** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **X** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [x] Image and introductory message displayed on screen
+* [x] Button displayed on screen
+* [x] Toast with message appears when button is pressed 
 
 The following **optional** features are implemented:
 
@@ -23,10 +22,18 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://cdn.loom.com/sessions/thumbnails/9f3c5dda16c848d6932aa61c5aab8e9f-4f61ce70ebc30b08-full-play.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<div>
+    <a href="https://www.loom.com/share/9f3c5dda16c848d6932aa61c5aab8e9f">
+    </a>
+    <a href="https://www.loom.com/share/9f3c5dda16c848d6932aa61c5aab8e9f">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9f3c5dda16c848d6932aa61c5aab8e9f-4f61ce70ebc30b08-full-play.gif">
+    </a>
+  </div>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Loom
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,7 +41,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One of the main challenges I faced while building the app was setting up version control with Git and pushing my code to a new GitHub repository. Since my project was already initialized with Git, I ran into conflicts with the remote repository’s history and had to learn how to resolve them through merging and force-pushing. I also encountered hurdles when integrating new features and ensuring the UI looked as intended, which required troubleshooting, testing, and refining my code. These challenges ultimately improved my problem-solving skills and deepened my understanding of the development process.
 
 ## License
 
