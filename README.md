@@ -1,8 +1,8 @@
-# Android Prework - *Sea Monster Crowdfunding*
+# WEB102 Prework - *Sea Monster Crowdfunding*
 
 Submitted by: **Thuy Thuy Quynh Tran**
 
-**Sea Monster Crowdfunding** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**Sea Monster Crowdfundingp** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **7** hours spent in total
 
@@ -10,9 +10,10 @@ Time spent: **7** hours spent in total
 
 The following **required** functionality is completed:
 
-* [x] Image and introductory message displayed on screen
-* [x] Button displayed on screen
-* [x] Toast with message appears when button is pressed 
+* [x] The introduction section explains the background of the company and how many games remain unfunded.
+* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
@@ -25,7 +26,7 @@ Here's a walkthrough of implemented features:
 <img src='https://cdn.loom.com/sessions/thumbnails/9f3c5dda16c848d6932aa61c5aab8e9f-4f61ce70ebc30b08-full-play.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Loom
+GIF created with Loom  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -50,3 +51,4 @@ One of the main challenges I faced while building the app was setting up version
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
