@@ -23,8 +23,13 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://cdn.loom.com/sessions/thumbnails/9f3c5dda16c848d6932aa61c5aab8e9f-4f61ce70ebc30b08-full-play.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<div>
+    <a href="https://www.loom.com/share/9f3c5dda16c848d6932aa61c5aab8e9f">
+    </a>
+    <a href="https://www.loom.com/share/9f3c5dda16c848d6932aa61c5aab8e9f">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9f3c5dda16c848d6932aa61c5aab8e9f-4f61ce70ebc30b08-full-play.gif">
+    </a>
+  </div>
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Loom  
 <!-- Recommended tools:
